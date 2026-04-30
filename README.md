@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Daniil 👋
 
-<!--
-**SadFrog31/SadFrog31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA-focused specialist with a strong interest in software quality, structured testing, and practical automation growth.
 
-Here are some ideas to get you started:
+## 🔎 What I focus on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual testing
+- Bug reporting and defect analysis
+- Test case design
+- Risk-based testing
+- API validation
+- Growing in UI and API automation
+
+## 🧪 Skills
+
+- Functional testing
+- Regression testing
+- Smoke testing
+- Exploratory testing
+- Test planning
+- Test documentation
+- Basic SQL validation
+- Basic API testing
+- Git and GitHub
+
+## 🤖 Currently developing
+
+- Playwright for UI automation
+- API automation
+- CI-based test execution
+- Better test structure and maintainability
+
+## 🌍 Languages
+
+- Ukrainian, Native
+- Russian, Native
+- English, Upper-Intermediate to Advanced
+- Czech, Upper-Intermediate
+
+## 📂 Featured repository
+
+- [QA Portfolio](https://github.com/SadFrog31/qa-portfolio)
+
+## 📫 Contacts
+
+- Email: `your.email@example.com`
+- LinkedIn: `https://linkedin.com/in/your-profile`
+- CV: `add-link-here`
+- Location: `City, Country`
+
+## ✨ About this profile
+
+This profile highlights my progress in QA, from solid manual testing foundations to practical automation and production-minded quality workflows.
