@@ -43,10 +43,10 @@ I am a QA-focused specialist with a strong interest in software quality, structu
 
 ## 📫 Contacts
 
-- Email: `your.email@example.com`
-- LinkedIn: `https://linkedin.com/in/your-profile`
+- Email: `daniil.savchenko31@gmail.com`
+- LinkedIn: `https://www.linkedin.com/feed/`
 - CV: `add-link-here`
-- Location: `City, Country`
+- Location: `Prague, Czechia`
 
 ## ✨ About this profile
 
